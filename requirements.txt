@@ -1,0 +1,7 @@
+pyautogui
+pydirectinput
+pyperclip
+keyboard
+Pillow
+beautifulsoup4
+requests

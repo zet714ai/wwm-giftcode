@@ -1,0 +1,4706 @@
+{
+    "coords": {
+        "open_btn": [
+            1037,
+            339
+        ],
+        "input_box": [
+            662,
+            550
+        ],
+        "confirm_btn": [
+            1003,
+            705
+        ],
+        "modal_color": [
+            30,
+            30,
+            31
+        ]
+    },
+    "delay": 2.5,
+    "urls": [
+        "https://codes.yar.gg/",
+        "https://where-winds-meet.fandom.com/wiki/Promotional_Codes",
+        "https://game8.co/games/Where-Winds-Meet/archives/564660",
+        "https://fptshop.com.vn/tin-tuc/giai-tri/code-where-winds-meet-193775",
+        "https://www.pocketgamer.com/where-winds-meet/codes/",
+        "https://wherewindsmeet.org/guides/codes"
+    ],
+    "code_pool": {
+        "INFORMATION": {
+            "status": "dead",
+            "sources": [
+                "game8.co",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "FSTUDIO": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SOULSLIKE": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "MN6MXF8QPE": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "DQJXNYQNJ4": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CYMWMFCJDH": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "HYXJRTA37F": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WM8E7JJF47": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CH8AJWFRRR": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "FSA7JNANTP": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "HXY33FXEFM": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "KC6T677DRY": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "DFPYC6DPXQ": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "QMQW7RQJT6": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "MEETINHM": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "FHHXEYRJAN": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PJCXEP4MFT": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SWCQQQHWAE": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "KPC346C44A": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "JJXDTKCD8Y": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "TPCF3FEN6Y": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SY3KQQE8KR": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "NK4AJFPDWC": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "QTNJP7P4PC": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "GOHOME123": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PALACE0528": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "Nhập tay",
+                "wherewindsmeet.org",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "HAPPY515": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "Nhập tay",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "QINCHUANGOGO": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "Nhập tay",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC1": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "OSCILATING": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC2": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC3": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC4": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC5": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC6": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC7": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC8": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "DEVLOG2601": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "wherewindsmeet.org",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "TF33HXJMJC": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "Nhập tay",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "OSCILLATING": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "wherewindsmeet.org"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "YYSLSTIB": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "NEWCODE123": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PLAYER": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "wherewindsmeet.org",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "NAMEPLATE": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMDEVTALK": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "Nhập tay",
+                "wherewindsmeet.org",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMGLTIKTOK": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMGLYOUTUBE": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "wherewindsmeet.org",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWM251115": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMGO1115": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMGO1114": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "RESONATING": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "wherewindsmeet.org"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "MELODY": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "wherewindsmeet.org"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ROBLOX": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "EXCHANGE": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "wherewindsmeet.org",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "FANPAGE": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WEBSITE": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "GIFTCODE": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "LAPTOP": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "GAMING": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "IPHONE": {
+            "status": "dead",
+            "sources": [
+                "fptshop.com.vn",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "QINCHUAN0430": {
+            "status": "dead",
+            "sources": [
+                "Nhập tay",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "wherewindsmeet.org",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "HEXIGOGO": {
+            "status": "dead",
+            "sources": [
+                "Nhập tay",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "LIANGZHOU0402": {
+            "status": "dead",
+            "sources": [
+                "Nhập tay",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "wherewindsmeet.org",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "LIANGZHOUGO": {
+            "status": "dead",
+            "sources": [
+                "Nhập tay",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "wherewindsmeet.org",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "HEXI0306": {
+            "status": "dead",
+            "sources": [
+                "Nhập tay",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "wherewindsmeet.org",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "MEETINHEXI": {
+            "status": "dead",
+            "sources": [
+                "Nhập tay",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "wherewindsmeet.org",
+                "www.pocketgamer.com"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PALACEGO": {
+            "status": "dead",
+            "sources": [
+                "Nhập tay",
+                "Kho cũ",
+                "Lịch sử cũ",
+                "wherewindsmeet.org"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "MCETF6AKJM": {
+            "status": "dead",
+            "sources": [
+                "Nhập tay",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "XDKHDDPPKN": {
+            "status": "dead",
+            "sources": [
+                "Nhập tay",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "JMKADAWWWM": {
+            "status": "dead",
+            "sources": [
+                "Nhập tay",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "HY6JJ74JTT": {
+            "status": "dead",
+            "sources": [
+                "Nhập tay",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "JXC8R8KMCW": {
+            "status": "dead",
+            "sources": [
+                "Nhập tay",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "RNAT7QJ6X3": {
+            "status": "dead",
+            "sources": [
+                "Nhập tay",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "RAXFT7K8R7": {
+            "status": "dead",
+            "sources": [
+                "Nhập tay",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ENOUGH": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "UPDATED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CHECKED": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "EVERYTHING": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PERFECT": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ENHANCED": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "VISUALS": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "GAMEPLAY": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "DISAPPOINT": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ARTICLE": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "COVERS": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "LATEST": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "STRONGER": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "EXCLUSIVE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CUSTOMISATIONS": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "OBTAINABLE": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "1113HUTUOGO": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "RMDR3H8YCP": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SJJK8MT6EQ": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "TJ8F3XNC7K": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WX77AQ7DXR": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "HM4DNFANHR": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "KRJ36RKCWP": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WD7H83YK7Y": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "RQM7E8FHRT": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "QMNCQJKXRF": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ATF3EFXN7R": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CFJ4AK8WWE": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "AFKH8T6E6E": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ANN7P66XMC4": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ANNFTA7RX7W": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "GOOSELOVEU": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "FINALTRUTH": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC9": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC10": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC11": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC12": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC13": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC14": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC15": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC16": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC17": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC18": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC19": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC20": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC21": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC22": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC23": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC24": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC25": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC26": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC27": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC28": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC29": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WWMQC30": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "GOOSENEWS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "HAPPYKID61": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "REDEEM": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "INSTRUCTIONS": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "METHOD": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "REALLY": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "MATTER": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PLATFORM": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SETTINGS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "BUTTON": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SCREEN": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "LITTLE": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "OPTION": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "EXACTLY": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SIMPLY": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CORRECTLY": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "RECEIVE": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "MAILBOX": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "DEVELOPERS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WHENEVER": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "BECOME": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "AVAILABLE": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "MEANTIME": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ANOTHER": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "TWITCH": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "OFFICIAL": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WATCHING": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "STREAMS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PLAYERS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "AFFILIATED": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ACCOUNT": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "TUNING": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CREATE": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CHARACTER": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "MMORPG": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "EXPLORING": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ACCESS": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "BEAUTIFUL": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ACTUALLY": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CAPTIVATE": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "HIDDEN": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "THINGS": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "UNCOVER": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SYSTEMS": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PRESENT": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "TITANS": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PLAYED": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "MMORPGS": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "HONESTLY": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CLOSEST": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PLAYING": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "GRINDING": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CONSTANTLY": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "INVESTING": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "OVERFIELD": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "BLEACH": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "RESONANCE": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "DOWNLOAD": {
+            "status": "dead",
+            "sources": [
+                "www.pocketgamer.com",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "REVIEWED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "INCLUDING": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ACROSS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "AUTUMN": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WATERS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "OVERVIEW": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "BALANCE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ANNOUNCEMENT": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "APPEARANCES": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "LETTER": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PREVIEW": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ANNIVERSARY": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PUBLISH": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "AGGREGATOR": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "STRINGS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "1015QINGZHOU": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "REMAIN": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "EXCLUDED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ATTACHED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "LABELED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CONFIRMED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "IMPORTANT": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "REPORTED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "LEAKED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "DISABLED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SOCIAL": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "RATHER": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PROBLEM": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "IMPERIAL": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PALACE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "TRACKERS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "DURING": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WINDOW": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "VERIFY": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "BEFORE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "TREATING": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ROTATE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "QUICKLY": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "LAUNCH": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CANDIDATE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "GUARANTEE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "REJECTS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "QINCHUAN": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CANDIDATES": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "BECAUSE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "EXPIRE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WITHOUT": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WARNING": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "LIANGZHOU": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "FOLLOW": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "RETURNING": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CATCHING": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "EXPANSION": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "BUNDLE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "INCLUDES": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CHESTS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "TRYING": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ACCOUNTS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CAMPAIGNS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SMALLER": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "USEFUL": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "MISSED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "FREEBIES": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "DEVELOPER": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "COMMUNITIES": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PREVIOUSLY": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "LISTED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "EXPIRY": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ASSUMING": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PRIORITIZE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "COMMUNITY": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CAMPAIGN": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "REPORT": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "REGION": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "DEPENDENT": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "LIMITED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ALWAYS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "BATCHES": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ALREADY": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "REPORTS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CONFIRMATIONS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CHOOSE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "GOOGLE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "DIFFERENT": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "INTENTS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "TRACKS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ENTERED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "OUTFIT": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "COSMETICS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "INSTEAD": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "APPEARANCE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PRESETS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "IMPORTED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "THROUGH": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "REDEEMED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "POSTED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SAYING": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PRACTICAL": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CHECKLIST": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "RECENT": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "FAILED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "RETRYING": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CREATION": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "TEASED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "TRAILERS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "USUALLY": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ISSUED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "MAINTENANCE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "GENEROUS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "UNIQUE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SHARED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "STREAMERS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "EXAMPLE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "TYPICAL": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "INCLUDE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "TEMPORARY": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "BOOSTS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "UPGRADE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "MATERIALS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PARTNERED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "VISUAL": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "COMPENSATION": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SERVERS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "STRUGGLE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "APPEAR": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SOMETIMES": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "DISTRIBUTE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CURRENCIES": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CONSUMABLES": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SYSTEM": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SELECT": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SUBMIT": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "ROUNDUP": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "FRESHNESS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "RESULT": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CONFIRMS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "WHETHER": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "STRING": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SEPARATE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CLAIMED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PLAYSTATION": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "REJECTED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "CLAIMS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "FAILURES": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SENSITIVE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "FORCED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "RECYCLE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "GUIDES": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "LINKED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "QINGZHOU": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "FRIENDS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PENGLAI": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "COMMUNICATIONS": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "REFRESH": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PUBLIC": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PUBLISHES": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SHOULD": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "UNLOCK": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "SHIPPED": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PROGRESSION": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "APPROACHING": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "INTENTION": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "GENTLE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "TAILWIND": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        },
+        "PRESSURE": {
+            "status": "dead",
+            "sources": [
+                "wherewindsmeet.org",
+                "Kho cũ",
+                "Lịch sử cũ"
+            ],
+            "account_results": {
+                "Sworsk": "failed"
+            }
+        }
+    },
+    "all_codes": [
+        "INFORMATION",
+        "FSTUDIO",
+        "SOULSLIKE",
+        "MN6MXF8QPE",
+        "DQJXNYQNJ4",
+        "CYMWMFCJDH",
+        "HYXJRTA37F",
+        "WM8E7JJF47",
+        "CH8AJWFRRR",
+        "FSA7JNANTP",
+        "HXY33FXEFM",
+        "KC6T677DRY",
+        "DFPYC6DPXQ",
+        "QMQW7RQJT6",
+        "MEETINHM",
+        "FHHXEYRJAN",
+        "PJCXEP4MFT",
+        "SWCQQQHWAE",
+        "KPC346C44A",
+        "JJXDTKCD8Y",
+        "TPCF3FEN6Y",
+        "SY3KQQE8KR",
+        "NK4AJFPDWC",
+        "QTNJP7P4PC",
+        "GOHOME123",
+        "PALACE0528",
+        "HAPPY515",
+        "QINCHUANGOGO",
+        "WWMQC1",
+        "OSCILATING",
+        "WWMQC2",
+        "WWMQC3",
+        "WWMQC4",
+        "WWMQC5",
+        "WWMQC6",
+        "WWMQC7",
+        "WWMQC8",
+        "DEVLOG2601",
+        "TF33HXJMJC",
+        "OSCILLATING",
+        "YYSLSTIB",
+        "NEWCODE123",
+        "PLAYER",
+        "NAMEPLATE",
+        "WWMDEVTALK",
+        "WWMGLTIKTOK",
+        "WWMGLYOUTUBE",
+        "WWM251115",
+        "WWMGO1115",
+        "WWMGO1114",
+        "RESONATING",
+        "MELODY",
+        "ROBLOX",
+        "EXCHANGE",
+        "FANPAGE",
+        "WEBSITE",
+        "GIFTCODE",
+        "LAPTOP",
+        "GAMING",
+        "IPHONE",
+        "QINCHUAN0430",
+        "HEXIGOGO",
+        "LIANGZHOU0402",
+        "LIANGZHOUGO",
+        "HEXI0306",
+        "MEETINHEXI",
+        "PALACEGO",
+        "MCETF6AKJM",
+        "XDKHDDPPKN",
+        "JMKADAWWWM",
+        "HY6JJ74JTT",
+        "JXC8R8KMCW",
+        "RNAT7QJ6X3",
+        "RAXFT7K8R7",
+        "ENOUGH",
+        "UPDATED",
+        "CHECKED",
+        "EVERYTHING",
+        "PERFECT",
+        "ENHANCED",
+        "VISUALS",
+        "GAMEPLAY",
+        "DISAPPOINT",
+        "ARTICLE",
+        "COVERS",
+        "LATEST",
+        "STRONGER",
+        "EXCLUSIVE",
+        "CUSTOMISATIONS",
+        "OBTAINABLE",
+        "1113HUTUOGO",
+        "RMDR3H8YCP",
+        "SJJK8MT6EQ",
+        "TJ8F3XNC7K",
+        "WX77AQ7DXR",
+        "HM4DNFANHR",
+        "KRJ36RKCWP",
+        "WD7H83YK7Y",
+        "RQM7E8FHRT",
+        "QMNCQJKXRF",
+        "ATF3EFXN7R",
+        "CFJ4AK8WWE",
+        "AFKH8T6E6E",
+        "ANN7P66XMC4",
+        "ANNFTA7RX7W",
+        "GOOSELOVEU",
+        "FINALTRUTH",
+        "WWMQC9",
+        "WWMQC10",
+        "WWMQC11",
+        "WWMQC12",
+        "WWMQC13",
+        "WWMQC14",
+        "WWMQC15",
+        "WWMQC16",
+        "WWMQC17",
+        "WWMQC18",
+        "WWMQC19",
+        "WWMQC20",
+        "WWMQC21",
+        "WWMQC22",
+        "WWMQC23",
+        "WWMQC24",
+        "WWMQC25",
+        "WWMQC26",
+        "WWMQC27",
+        "WWMQC28",
+        "WWMQC29",
+        "WWMQC30",
+        "GOOSENEWS",
+        "HAPPYKID61",
+        "REDEEM",
+        "INSTRUCTIONS",
+        "METHOD",
+        "REALLY",
+        "MATTER",
+        "PLATFORM",
+        "SETTINGS",
+        "BUTTON",
+        "SCREEN",
+        "LITTLE",
+        "OPTION",
+        "EXACTLY",
+        "SIMPLY",
+        "CORRECTLY",
+        "RECEIVE",
+        "MAILBOX",
+        "DEVELOPERS",
+        "WHENEVER",
+        "BECOME",
+        "AVAILABLE",
+        "MEANTIME",
+        "ANOTHER",
+        "TWITCH",
+        "OFFICIAL",
+        "WATCHING",
+        "STREAMS",
+        "PLAYERS",
+        "AFFILIATED",
+        "ACCOUNT",
+        "TUNING",
+        "CREATE",
+        "CHARACTER",
+        "MMORPG",
+        "EXPLORING",
+        "ACCESS",
+        "BEAUTIFUL",
+        "ACTUALLY",
+        "CAPTIVATE",
+        "HIDDEN",
+        "THINGS",
+        "UNCOVER",
+        "SYSTEMS",
+        "PRESENT",
+        "TITANS",
+        "PLAYED",
+        "MMORPGS",
+        "HONESTLY",
+        "CLOSEST",
+        "PLAYING",
+        "GRINDING",
+        "CONSTANTLY",
+        "INVESTING",
+        "OVERFIELD",
+        "BLEACH",
+        "RESONANCE",
+        "DOWNLOAD",
+        "REVIEWED",
+        "INCLUDING",
+        "ACROSS",
+        "AUTUMN",
+        "WATERS",
+        "OVERVIEW",
+        "BALANCE",
+        "ANNOUNCEMENT",
+        "APPEARANCES",
+        "LETTER",
+        "PREVIEW",
+        "ANNIVERSARY",
+        "PUBLISH",
+        "AGGREGATOR",
+        "STRINGS",
+        "1015QINGZHOU",
+        "REMAIN",
+        "EXCLUDED",
+        "ATTACHED",
+        "LABELED",
+        "CONFIRMED",
+        "IMPORTANT",
+        "REPORTED",
+        "LEAKED",
+        "DISABLED",
+        "SOCIAL",
+        "RATHER",
+        "PROBLEM",
+        "IMPERIAL",
+        "PALACE",
+        "TRACKERS",
+        "DURING",
+        "WINDOW",
+        "VERIFY",
+        "BEFORE",
+        "TREATING",
+        "ROTATE",
+        "QUICKLY",
+        "LAUNCH",
+        "CANDIDATE",
+        "GUARANTEE",
+        "REJECTS",
+        "QINCHUAN",
+        "CANDIDATES",
+        "BECAUSE",
+        "EXPIRE",
+        "WITHOUT",
+        "WARNING",
+        "LIANGZHOU",
+        "FOLLOW",
+        "RETURNING",
+        "CATCHING",
+        "EXPANSION",
+        "BUNDLE",
+        "INCLUDES",
+        "CHESTS",
+        "TRYING",
+        "ACCOUNTS",
+        "CAMPAIGNS",
+        "SMALLER",
+        "USEFUL",
+        "MISSED",
+        "FREEBIES",
+        "DEVELOPER",
+        "COMMUNITIES",
+        "PREVIOUSLY",
+        "LISTED",
+        "EXPIRY",
+        "ASSUMING",
+        "PRIORITIZE",
+        "COMMUNITY",
+        "CAMPAIGN",
+        "REPORT",
+        "REGION",
+        "DEPENDENT",
+        "LIMITED",
+        "ALWAYS",
+        "BATCHES",
+        "ALREADY",
+        "REPORTS",
+        "CONFIRMATIONS",
+        "CHOOSE",
+        "GOOGLE",
+        "DIFFERENT",
+        "INTENTS",
+        "TRACKS",
+        "ENTERED",
+        "OUTFIT",
+        "COSMETICS",
+        "INSTEAD",
+        "APPEARANCE",
+        "PRESETS",
+        "IMPORTED",
+        "THROUGH",
+        "REDEEMED",
+        "POSTED",
+        "SAYING",
+        "PRACTICAL",
+        "CHECKLIST",
+        "RECENT",
+        "FAILED",
+        "RETRYING",
+        "CREATION",
+        "TEASED",
+        "TRAILERS",
+        "USUALLY",
+        "ISSUED",
+        "MAINTENANCE",
+        "GENEROUS",
+        "UNIQUE",
+        "SHARED",
+        "STREAMERS",
+        "EXAMPLE",
+        "TYPICAL",
+        "INCLUDE",
+        "TEMPORARY",
+        "BOOSTS",
+        "UPGRADE",
+        "MATERIALS",
+        "PARTNERED",
+        "VISUAL",
+        "COMPENSATION",
+        "SERVERS",
+        "STRUGGLE",
+        "APPEAR",
+        "SOMETIMES",
+        "DISTRIBUTE",
+        "CURRENCIES",
+        "CONSUMABLES",
+        "SYSTEM",
+        "SELECT",
+        "SUBMIT",
+        "ROUNDUP",
+        "FRESHNESS",
+        "RESULT",
+        "CONFIRMS",
+        "WHETHER",
+        "STRING",
+        "SEPARATE",
+        "CLAIMED",
+        "PLAYSTATION",
+        "REJECTED",
+        "CLAIMS",
+        "FAILURES",
+        "SENSITIVE",
+        "FORCED",
+        "RECYCLE",
+        "GUIDES",
+        "LINKED",
+        "QINGZHOU",
+        "FRIENDS",
+        "PENGLAI",
+        "COMMUNICATIONS",
+        "REFRESH",
+        "PUBLIC",
+        "PUBLISHES",
+        "SHOULD",
+        "UNLOCK",
+        "SHIPPED",
+        "PROGRESSION",
+        "APPROACHING",
+        "INTENTION",
+        "GENTLE",
+        "TAILWIND",
+        "PRESSURE"
+    ],
+    "accounts": {
+        "Raphic": {
+            "used_codes": []
+        },
+        "Sworsk": {
+            "used_codes": [
+                "INFORMATION",
+                "FSTUDIO",
+                "SOULSLIKE",
+                "MN6MXF8QPE",
+                "DQJXNYQNJ4",
+                "CYMWMFCJDH",
+                "HYXJRTA37F",
+                "WM8E7JJF47",
+                "CH8AJWFRRR",
+                "FSA7JNANTP",
+                "HXY33FXEFM",
+                "KC6T677DRY",
+                "DFPYC6DPXQ",
+                "QMQW7RQJT6",
+                "MEETINHM",
+                "FHHXEYRJAN",
+                "PJCXEP4MFT",
+                "SWCQQQHWAE",
+                "KPC346C44A",
+                "JJXDTKCD8Y",
+                "TPCF3FEN6Y",
+                "SY3KQQE8KR",
+                "NK4AJFPDWC",
+                "QTNJP7P4PC",
+                "GOHOME123",
+                "PALACE0528",
+                "HAPPY515",
+                "QINCHUANGOGO",
+                "WWMQC1",
+                "OSCILATING",
+                "WWMQC2",
+                "WWMQC3",
+                "WWMQC4",
+                "WWMQC5",
+                "WWMQC6",
+                "WWMQC7",
+                "WWMQC8",
+                "DEVLOG2601",
+                "TF33HXJMJC",
+                "OSCILLATING",
+                "YYSLSTIB",
+                "NEWCODE123",
+                "PLAYER",
+                "NAMEPLATE",
+                "WWMDEVTALK",
+                "WWMGLTIKTOK",
+                "WWMGLYOUTUBE",
+                "WWM251115",
+                "WWMGO1115",
+                "WWMGO1114",
+                "RESONATING",
+                "MELODY",
+                "ROBLOX",
+                "EXCHANGE",
+                "FANPAGE",
+                "WEBSITE",
+                "GIFTCODE",
+                "LAPTOP",
+                "GAMING",
+                "IPHONE",
+                "QINCHUAN0430",
+                "HEXIGOGO",
+                "LIANGZHOU0402",
+                "LIANGZHOUGO",
+                "HEXI0306",
+                "MEETINHEXI",
+                "PALACEGO",
+                "MCETF6AKJM",
+                "XDKHDDPPKN",
+                "JMKADAWWWM",
+                "HY6JJ74JTT",
+                "JXC8R8KMCW",
+                "RNAT7QJ6X3",
+                "RAXFT7K8R7",
+                "ENOUGH",
+                "UPDATED",
+                "CHECKED",
+                "EVERYTHING",
+                "PERFECT",
+                "ENHANCED",
+                "VISUALS",
+                "GAMEPLAY",
+                "DISAPPOINT",
+                "ARTICLE",
+                "COVERS",
+                "LATEST",
+                "STRONGER",
+                "EXCLUSIVE",
+                "CUSTOMISATIONS",
+                "OBTAINABLE",
+                "1113HUTUOGO",
+                "RMDR3H8YCP",
+                "SJJK8MT6EQ",
+                "TJ8F3XNC7K",
+                "WX77AQ7DXR",
+                "HM4DNFANHR",
+                "KRJ36RKCWP",
+                "WD7H83YK7Y",
+                "RQM7E8FHRT",
+                "QMNCQJKXRF",
+                "ATF3EFXN7R",
+                "CFJ4AK8WWE",
+                "AFKH8T6E6E",
+                "ANN7P66XMC4",
+                "ANNFTA7RX7W",
+                "GOOSELOVEU",
+                "FINALTRUTH",
+                "WWMQC9",
+                "WWMQC10",
+                "WWMQC11",
+                "WWMQC12",
+                "WWMQC13",
+                "WWMQC14",
+                "WWMQC15",
+                "WWMQC16",
+                "WWMQC17",
+                "WWMQC18",
+                "WWMQC19",
+                "WWMQC20",
+                "WWMQC21",
+                "WWMQC22",
+                "WWMQC23",
+                "WWMQC24",
+                "WWMQC25",
+                "WWMQC26",
+                "WWMQC27",
+                "WWMQC28",
+                "WWMQC29",
+                "WWMQC30",
+                "GOOSENEWS",
+                "HAPPYKID61",
+                "REDEEM",
+                "INSTRUCTIONS",
+                "METHOD",
+                "REALLY",
+                "MATTER",
+                "PLATFORM",
+                "SETTINGS",
+                "BUTTON",
+                "SCREEN",
+                "LITTLE",
+                "OPTION",
+                "EXACTLY",
+                "SIMPLY",
+                "CORRECTLY",
+                "RECEIVE",
+                "MAILBOX",
+                "DEVELOPERS",
+                "WHENEVER",
+                "BECOME",
+                "AVAILABLE",
+                "MEANTIME",
+                "ANOTHER",
+                "TWITCH",
+                "OFFICIAL",
+                "WATCHING",
+                "STREAMS",
+                "PLAYERS",
+                "AFFILIATED",
+                "ACCOUNT",
+                "TUNING",
+                "CREATE",
+                "CHARACTER",
+                "MMORPG",
+                "EXPLORING",
+                "ACCESS",
+                "BEAUTIFUL",
+                "ACTUALLY",
+                "CAPTIVATE",
+                "HIDDEN",
+                "THINGS",
+                "UNCOVER",
+                "SYSTEMS",
+                "PRESENT",
+                "TITANS",
+                "PLAYED",
+                "MMORPGS",
+                "HONESTLY",
+                "CLOSEST",
+                "PLAYING",
+                "GRINDING",
+                "CONSTANTLY",
+                "INVESTING",
+                "OVERFIELD",
+                "BLEACH",
+                "RESONANCE",
+                "DOWNLOAD",
+                "REVIEWED",
+                "INCLUDING",
+                "ACROSS",
+                "AUTUMN",
+                "WATERS",
+                "OVERVIEW",
+                "BALANCE",
+                "ANNOUNCEMENT",
+                "APPEARANCES",
+                "LETTER",
+                "PREVIEW",
+                "ANNIVERSARY",
+                "PUBLISH",
+                "AGGREGATOR",
+                "STRINGS",
+                "1015QINGZHOU",
+                "REMAIN",
+                "EXCLUDED",
+                "ATTACHED",
+                "LABELED",
+                "CONFIRMED",
+                "IMPORTANT",
+                "REPORTED",
+                "LEAKED",
+                "DISABLED",
+                "SOCIAL",
+                "RATHER",
+                "PROBLEM",
+                "IMPERIAL",
+                "PALACE",
+                "TRACKERS",
+                "DURING",
+                "WINDOW",
+                "VERIFY",
+                "BEFORE",
+                "TREATING",
+                "ROTATE",
+                "QUICKLY",
+                "LAUNCH",
+                "CANDIDATE",
+                "GUARANTEE",
+                "REJECTS",
+                "QINCHUAN",
+                "CANDIDATES",
+                "BECAUSE",
+                "EXPIRE",
+                "WITHOUT",
+                "WARNING",
+                "LIANGZHOU",
+                "FOLLOW",
+                "RETURNING",
+                "CATCHING",
+                "EXPANSION",
+                "BUNDLE",
+                "INCLUDES",
+                "CHESTS",
+                "TRYING",
+                "ACCOUNTS",
+                "CAMPAIGNS",
+                "SMALLER",
+                "USEFUL",
+                "MISSED",
+                "FREEBIES",
+                "DEVELOPER",
+                "COMMUNITIES",
+                "PREVIOUSLY",
+                "LISTED",
+                "EXPIRY",
+                "ASSUMING",
+                "PRIORITIZE",
+                "COMMUNITY",
+                "CAMPAIGN",
+                "REPORT",
+                "REGION",
+                "DEPENDENT",
+                "LIMITED",
+                "ALWAYS",
+                "BATCHES",
+                "ALREADY",
+                "REPORTS",
+                "CONFIRMATIONS",
+                "CHOOSE",
+                "GOOGLE",
+                "DIFFERENT",
+                "INTENTS",
+                "TRACKS",
+                "ENTERED",
+                "OUTFIT",
+                "COSMETICS",
+                "INSTEAD",
+                "APPEARANCE",
+                "PRESETS",
+                "IMPORTED",
+                "THROUGH",
+                "REDEEMED",
+                "POSTED",
+                "SAYING",
+                "PRACTICAL",
+                "CHECKLIST",
+                "RECENT",
+                "FAILED",
+                "RETRYING",
+                "CREATION",
+                "TEASED",
+                "TRAILERS",
+                "USUALLY",
+                "ISSUED",
+                "MAINTENANCE",
+                "GENEROUS",
+                "UNIQUE",
+                "SHARED",
+                "STREAMERS",
+                "EXAMPLE",
+                "TYPICAL",
+                "INCLUDE",
+                "TEMPORARY",
+                "BOOSTS",
+                "UPGRADE",
+                "MATERIALS",
+                "PARTNERED",
+                "VISUAL",
+                "COMPENSATION",
+                "SERVERS",
+                "STRUGGLE",
+                "APPEAR",
+                "SOMETIMES",
+                "DISTRIBUTE",
+                "CURRENCIES",
+                "CONSUMABLES",
+                "SYSTEM",
+                "SELECT",
+                "SUBMIT",
+                "ROUNDUP",
+                "FRESHNESS",
+                "RESULT",
+                "CONFIRMS",
+                "WHETHER",
+                "STRING",
+                "SEPARATE",
+                "CLAIMED",
+                "PLAYSTATION",
+                "REJECTED",
+                "CLAIMS",
+                "FAILURES",
+                "SENSITIVE",
+                "FORCED",
+                "RECYCLE",
+                "GUIDES",
+                "LINKED",
+                "QINGZHOU",
+                "FRIENDS",
+                "PENGLAI",
+                "COMMUNICATIONS",
+                "REFRESH",
+                "PUBLIC",
+                "PUBLISHES",
+                "SHOULD",
+                "UNLOCK",
+                "SHIPPED",
+                "PROGRESSION",
+                "APPROACHING",
+                "INTENTION",
+                "GENTLE",
+                "TAILWIND",
+                "PRESSURE"
+            ]
+        }
+    },
+    "last_account": "Sworsk"
+}
